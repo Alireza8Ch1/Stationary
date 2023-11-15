@@ -1065,18 +1065,19 @@ ol {
 	display: flex;
 	align-items: center;
 	padding: 45px 0 40px;
+	
 }
 
 .breadcrumb__text h2 {
 	font-size: 46px;
-	color: #ffffff;
+	color: #687EFF;
 	font-weight: 700;
 }
 
 .breadcrumb__option a {
 	display: inline-block;
 	font-size: 16px;
-	color: #ffffff;
+	color: #687EFF;
 	font-weight: 700;
 	margin-right: 20px;
 	position: relative;
@@ -1088,14 +1089,14 @@ ol {
 	top: 13px;
 	height: 1px;
 	width: 10px;
-	background: #ffffff;
+	background: #687EFF;
 	content: "";
 }
 
 .breadcrumb__option span {
 	display: inline-block;
 	font-size: 16px;
-	color: #ffffff;
+	color: #687EFF;
 }
 
 /*---------------------
