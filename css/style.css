@@ -118,7 +118,7 @@ ol {
 }
 
 .section-title h2 {
-	color: #1c1c1c;
+	color: #687EFF;
 	font-weight: 700;
 	position: relative;
 }
@@ -130,7 +130,7 @@ ol {
 	right: 0;
 	height: 4px;
 	width: 80px;
-	background: #7fad39;
+	background: #80B3FF;
 	content: "";
 	margin: 0 auto;
 }
@@ -411,6 +411,11 @@ ol {
 .header__logo {
 	padding: 15px 0;
 }
+.header__logo p {
+	color: #687EFF;
+	/* font-family: sans-serif; */
+	font: bold 40px sans-serif;
+}
 
 .header__logo a {
 	display: inline-block;
@@ -643,7 +648,7 @@ ol {
 .hero__search__form {
 	width: 610px;
 	height: 50px;
-	border: 1px solid #ebebeb;
+	border: 1px solid #687EFF;
 	position: relative;
 	float: left;
 }
@@ -683,10 +688,11 @@ ol {
 	font-size: 16px;
 	color: #b2b2b2;
 	padding-left: 20px;
+	background-color: #B6FFFA;
 }
 
 .hero__search__form form input::placeholder {
-	color: #b2b2b2;
+	color: #1f1e1d;
 }
 
 .hero__search__form form button {
@@ -735,21 +741,31 @@ ol {
 	padding-left: 75px;
 }
 
-#main-banner{
-	max-height: 431px;
-}
-
 .hero__text span {
 	font-size: 14px;
 	text-transform: uppercase;
 	font-weight: 700;
 	letter-spacing: 4px;
-	color: #7fad39;
+	color: #687EFF;
 }
 
+.hero__text h1 {
+	font-size: 80px;
+	color: #687EFF;
+	line-height: 52px;
+	font-weight: 700;
+	margin: 10px 0;
+}
 .hero__text h2 {
+	font-size: 66px;
+	color: #80B3FF;
+	line-height: 52px;
+	font-weight: 700;
+	margin: 10px 0;
+}
+.hero__text h3 {
 	font-size: 46px;
-	color: #252525;
+	color: #98E4FF;
 	line-height: 52px;
 	font-weight: 700;
 	margin: 10px 0;
@@ -775,6 +791,7 @@ ol {
 	padding: 0 20px;
 	bottom: 20px;
 	text-align: center;
+	background-color: #80B3FF;
 }
 
 .categories__item h5 a {
@@ -784,7 +801,7 @@ ol {
 	text-transform: uppercase;
 	letter-spacing: 2px;
 	padding: 12px 0 10px;
-	background: #ffffff;
+	background: #80B3FF;
 	display: block;
 }
 
@@ -2620,7 +2637,7 @@ ol {
 -----------------------*/
 
 .footer {
-	background: #F3F6FA;
+	background: #B6FFFA;
 	padding-top: 70px;
 	padding-bottom: 0;
 }
@@ -2638,6 +2655,11 @@ ol {
 
 .footer__about__logo {
 	margin-bottom: 15px;
+}
+.footer__about__logo p {
+	color: #687EFF;
+	/* font-family: sans-serif; */
+	font: bold 40px sans-serif;
 }
 
 .footer__about__logo a {
