@@ -391,6 +391,7 @@ you can use the generic selector below, but it's slower:
 }
 .icon_tag_alt:before {
 	content: "\e017";
+	color: #80B3FF;
 }
 .icon_tags_alt:before {
 	content: "\e018";
