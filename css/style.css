@@ -3292,7 +3292,7 @@ ol {
 	}
 	.humberger__menu__wrapper {
 		width: 300px;
-		background: #ffffff;
+		background: #98E4FF;
 		position: fixed;
 		left: -300px;
 		top: 0;
@@ -3355,7 +3355,7 @@ ol {
 	.humberger__menu__cart ul li a span {
 		height: 13px;
 		width: 13px;
-		background: #7fad39;
+		background: #687EFF;
 		font-size: 10px;
 		color: #ffffff;
 		line-height: 13px;
@@ -3421,7 +3421,7 @@ ol {
 		-webkit-border-radius: 0;
 		border-radius: 0;
 		background: transparent;
-		color: #7fad39;
+		color: #687EFF;
 	}
 	.humberger__menu__wrapper .slicknav_nav .slicknav_row,
 	.humberger__menu__wrapper .slicknav_nav a {
